@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sreedhar(@mellofordev)
 - 👀 I’m interested in A.I,Web/App development and Algorithms etc
-- 💞️ I’m looking to build some projects that will help society in some ways
+- 💞️ I’m  iterating over current world problems and wanted to build some projects that will help society in some ways
 - 📫 Contact me: https://instagram.com/sreedhar_k.s/
 - 
 
