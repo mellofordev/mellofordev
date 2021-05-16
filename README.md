@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mellofordev
+- 👋 Hi, I’m Sreedhar(@mellofordev)
 - 👀 I’m interested in A.I,Web/App development,Algorithms
 - 🌱 I’m currently learning React,Dart,some math 
 - 💞️ I’m looking to build some projects that will help society in some ways
